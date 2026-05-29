@@ -1,0 +1,12 @@
+.venv/
+venv/
+**/.venv/
+**/venv/
+
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+
+nvs_tariff_thesis/data/
